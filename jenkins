@@ -1,0 +1,4 @@
+node{
+    stages{
+           stage{"mvn pull"
+           }}}
